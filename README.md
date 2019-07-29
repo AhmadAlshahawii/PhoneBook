@@ -1,5 +1,5 @@
 # PhoneBook
-PhoneBook is free HTML5 web template, you can add contacts search and delete.
+PhoneBook is free HTML5 template, you can add contacts search and delete.
 
 # PhoneBook with awesome design
 
